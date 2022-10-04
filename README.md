@@ -1,4 +1,4 @@
-# Task--Django-Rest-Framework
+# API--Django-Rest-Framework
 
 1. Python 3.10.5
 2. Django==4.1.1
