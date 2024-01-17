@@ -25,7 +25,7 @@ SECRET_KEY = 'jdop$&#1@g$mo5t5y$z#@^2x4vt&0q3b5vjv0vavu3l^qq21bd'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [*]
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
